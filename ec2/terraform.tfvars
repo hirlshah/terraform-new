@@ -1,0 +1,8 @@
+region                 = "ap-south-1"
+ec2_ami                = "ami-0a7cf821b91bcccbc"
+ec2_type               = "t2.micro"
+subnet_id              = "subnet-03599301a3c571501"
+key_name               = "mumbai-region"
+vpc_security_group_ids = "sg-03246e55de6e866f1"
+ec2_name               = "web"
+sg_name                = "allow_ssh"
